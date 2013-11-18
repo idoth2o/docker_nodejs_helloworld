@@ -15,10 +15,12 @@ Setup docker program.
 -   Get clone:
 
         $ git clone https://github.com/idoth2o/docker_nodejs_helloworld.git
+        $ cd docker_nodejs_helloworld
 
 -   Build docker image:
 
         $ sudo docker build -t .h2o/node-hello .
+        # Please wait for some time (:p
 
 -   Run docker:
 
