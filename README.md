@@ -34,5 +34,7 @@ Many thanks to @gasi and @dotCloud team for docker.
 
 ## Reference
 
-https://github.com/gasi/docker-node-hello
+original code:	https://github.com/gasi/docker-node-hello
+my blog:	http://d.hatena.ne.jp/dot_h2o2/20131115/
+
 	
